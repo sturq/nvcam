@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- soft outer glow of the lens -->
+    <path android:strokeColor="#3A6B58" android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M26.5,54 a27.5,27.5 0 1,0 55,0 a27.5,27.5 0 1,0 -55,0" />
+    <!-- lens ring -->
+    <path android:strokeColor="#A9F0CF" android:strokeWidth="3.5"
+        android:fillColor="#00000000"
+        android:pathData="M30,54 a24,24 0 1,0 48,0 a24,24 0 1,0 -48,0" />
+    <!-- crescent moon: circle r13 at (54,54) minus circle r11 at (60,49) -->
+    <path android:fillColor="#DDEBE4"
+        android:pathData="M52.34,41.10 A13,13 0 1,0 66.38,57.96 A11,11 0 0,1 52.34,41.10 Z" />
+    <!-- REC dot -->
+    <path android:fillColor="#FF3B30"
+        android:pathData="M74,34 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>

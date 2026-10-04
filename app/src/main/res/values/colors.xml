@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- mint-on-black, taken from the camcorder night-shot reference sturq picked -->
+    <color name="hud_bg">#070A09</color>
+    <color name="hud_panel">#0E1412</color>
+    <color name="hud_text">#DDEBE4</color>
+    <color name="hud_dim">#66746E</color>
+    <color name="hud_accent">#A9F0CF</color>
+    <color name="hud_rec">#FF3B30</color>
+    <color name="hud_stroke">#1B2622</color>
+    <color name="ic_launcher_background">#0B1210</color>
+</resources>
